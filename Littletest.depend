@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543490366 source:c:\users\hp\desktop\cpp\littletest\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
